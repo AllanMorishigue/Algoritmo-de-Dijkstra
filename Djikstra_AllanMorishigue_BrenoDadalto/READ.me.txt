@@ -1,0 +1,7 @@
+Para bom funcionamento do programa:
+- Não inserir arestas ligadas em vertices inexistente
+- Não inserir arestas repetidas
+
+
+Nome: Allan Morishigue Bassiga da Cruz RA: 567485
+Nome: Breno Costa Dadalto RA: 567681
